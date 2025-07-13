@@ -49,9 +49,8 @@ Automatiza la creación de eventos de calendario para el seguimiento de pagos y 
 - Asegúrate de que esté visible
 
 ### 3. Configurar Google Apps Script
-- Ve a [Google Apps Script](https://script.google.com)
-- Crea un nuevo proyecto
-- Pega el código del archivo `crearEventosDePagos.js`
+- Ve a el menu Extensiones → Apps Script.
+- Pega el código del archivo `CreaeEventos.gs`
 - Guarda el proyecto
 
 ### 4. Autorizar permisos
